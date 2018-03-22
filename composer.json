@@ -1,6 +1,6 @@
 {
-    "name": "zizaco/entrust",
-    "description": "This package provides a flexible way to add Role-based Permissions to Laravel",
+    "name": "lnidigital/entrust",
+    "description": "This is a fork of Laravel entrust to allow group permissions",
     "keywords": ["laravel","illuminate","auth","roles","acl","permission"],
     "license": "MIT",
     "authors": [
@@ -19,6 +19,10 @@
         {
             "name": "Michele Angioni",
             "email": "michele.angioni@gmail.com"
+        },
+        {
+            "name": "Seong Bae",
+            "email": "seong@lnidigital.com"
         }
     ],
     "require": {
